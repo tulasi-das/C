@@ -1,0 +1,1 @@
+// function pointers are exist in cpp, using this function pointers we can pass functions as paramter into a function
